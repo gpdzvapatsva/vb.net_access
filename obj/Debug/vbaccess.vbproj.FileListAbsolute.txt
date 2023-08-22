@@ -1,0 +1,14 @@
+C:\Users\gdzvapatsva\Desktop\vbaccess\bin\Debug\vbaccess.exe.config
+C:\Users\gdzvapatsva\Desktop\vbaccess\bin\Debug\vbaccess.exe
+C:\Users\gdzvapatsva\Desktop\vbaccess\bin\Debug\vbaccess.pdb
+C:\Users\gdzvapatsva\Desktop\vbaccess\bin\Debug\vbaccess.xml
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.vbproj.AssemblyReference.cache
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.Form1.resources
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.Resources.resources
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.products.resources
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.vbproj.GenerateResource.cache
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.vbproj.CoreCompileInputs.cache
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.exe
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.xml
+C:\Users\gdzvapatsva\Desktop\vbaccess\obj\Debug\vbaccess.pdb
